@@ -9,4 +9,4 @@ function prosvit_google_fonts() {
 
 }
 
-add_action( 'wp_head', 'prosvit_google_fonts' , 1);
+add_action( 'wp_head', 'prosvit_google_fonts' , 10);
